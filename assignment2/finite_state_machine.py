@@ -7,6 +7,7 @@ Created on Fri Mar 28 00:34:49 2025
 """
 
 
+
 class FiniteStateMachine:
     def __init__(self, Q, Sigma, q0, delta):
         """

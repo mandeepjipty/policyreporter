@@ -6,16 +6,6 @@ Created on Thu Mar 27 00:50:03 2025
 @author: mandeepjipty
 """
 
-"""
-Assignment 1:-
-
-We are evaluating a binary classification model. 
-We have the number of true positives, true negatives, false positives, 
-and false negatives for confidence score thresholds 
-0.1, 0.2, 0.3, ..., 0.9 respectively.
-Write a function to return THE BEST threshold that yields a recall >= 0.9
-
-"""
 
 def best_threshold(metrics, min_recall=0.9):
     """
