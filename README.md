@@ -14,15 +14,6 @@ This repository contains my solutions to two technical assignments for the Softw
    - **Description:** Implements a solution to compute the remainder when an unsigned binary integer is divided by three using a Finite State Machine (FSM). This solution is built in an object-oriented manner and uses the exact symbols from the assignment (Q, Σ (Sigma), q0, δ (delta), and state_to_remainder).
    - **Further Details:** Refer to the `assignment2/README.md` file for a detailed explanation of the design, setup instructions, and how to run both the program and its tests.
 
-## Directory Structure
-├── assignment1
-│   ├── README.md
-│   └── best_threshold.py
-└── assignment2
-    ├── README.md
-    ├── finite_state_machine.py
-    ├── mod_three.py
-    └── test_mod_three.py
 
 ## Installation Requirements
 
